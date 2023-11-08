@@ -3,8 +3,8 @@ This repository is for the bioinformatics munich student lab
 
 ## ToDo
 [ ] Homepage
-    [ ] 
+[ ] Projects
 [ ] Team Member Page
-[ ] Aluni Page
+[ ] Alumni Page
 [ ] Sponsors and Partners
 [ ]
