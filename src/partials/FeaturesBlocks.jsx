@@ -9,7 +9,7 @@ function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Computational approaches can handle complex and large biological data.</h2>
-            <p className="text-xl text-gray-400">Informative patterns are hiding in data, bioinformatics tools are here to help</p>
+            <p className="text-xl text-gray-400">Bioinformatics tools are here to help find informative patterns are hiding in data, </p>
           </div>
 
           {/* Items */}
