@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function HeroHome() {
   return (
-    <section className="bg-black text-white min-h-screen flex items-center justify-center">
+    <section className="text-white min-h-screen flex items-center justify-center">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="text-left">
           {/* Main Heading */}
