@@ -22,6 +22,8 @@ export default function Header() {
               <li><Link href="/about" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">About</Link></li>
               <li><Link href="/projects" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Projects</Link></li>
               <li><Link href="/contact" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Contact Us</Link></li>
+              <li><Link href="/impressom" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Impress</Link></li>
+
             </ul>
           </nav>
 

@@ -8,6 +8,12 @@ export const metadata = {
 
 import '../../css/App.css'
 import Link from 'next/link'
+type TimelineEvent = {
+  id: number;
+  date: string;
+  title: string;
+  description: string;
+};
 
 // Sample data array
 const timelineEvents: TimelineEvent[] = [
